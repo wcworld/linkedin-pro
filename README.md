@@ -1,4 +1,3 @@
-TG @big_elon7
 
 # CAPTCHA Verification Node.js Application
 
